@@ -1,52 +1,78 @@
-# 👋 Welcome to My GitHub Profile!
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi, I’m **Wissem Yaakoubi**, an **Embedded Systems Engineer** dedicated to creating efficient hardware-software solutions.
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <h2>Hi there! I'm <strong>Wissem Yaakoubi</strong></h2>
+  <p>
+    <i>Embedded Systems Engineer • Innovator • Tech Enthusiast</i>
+  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+my+dynamic+profile!;I+design+hardware-software+solutions;Let%27s+innovate+together!;Open+to+new+opportunities!">
+</div>
 
 ---
 
 ## 🚀 About Me  
-🔧 **Skills & Expertise:**  
-- Embedded Linux, Yocto Project & Buildroot  
-- RTOS and bare-metal programming  
-- Hardware integration: GPIO, I2C, SPI, UART, CAN  
-- Wireless technologies: Bluetooth, GSM/4G (SIM7600), Wi-Fi  
-- Qt-based GUI development  
 
-🌟 **Notable Projects:**  
-- **IoT Device Control:** Integrated GSM and GNSS modules for real-time tracking  
-- **CAN Bus Communication:** Robust automotive communication systems  
-- **Boot Time Optimization:** Custom Linux builds for fast and efficient startup  
+🔧 **Skills:**  
+- **Embedded Systems Development:** Yocto, Buildroot, Linux kernel  
+- **Programming:** C, C++, Python, Rust  
+- **Hardware Integration:** GPIO, I2C, SPI, UART, CAN  
+- **Wireless Technologies:** Bluetooth, GSM (SIM7600), Wi-Fi  
+- **User Interfaces:** Qt/QML  
 
-💼 **Career Goals:** Deliver cutting-edge embedded solutions that shape the future of IoT and mobility.
-
----
-
-## 💡 What I’m Working On  
-🔄 Enhancing Linux kernel configurations for embedded devices  
-🛰️ Developing real-time tracking systems with GNSS  
-🎨 Building seamless Qt-based UIs  
+🌟 **Highlights:**  
+- Developed real-time vehicle tracking systems with GNSS and GSM.  
+- Designed CAN Bus communication for electric mobility applications.  
+- Customized Linux kernel for fast boot time on embedded devices.  
 
 ---
 
-## 📫 Let's Connect!  
-- 💼 [LinkedIn](https://linkedin.com/in/wissemyaakoubi)  
-- 📧 Email: wissem.yaakoubi@example.com  
+## 🌌 My Goals  
+🔄 Push the boundaries of IoT and embedded systems innovation.  
+🤝 Collaborate with global talents on impactful projects.  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Wissem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissemyaakoubi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissemyaakoubi&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wissemyaakoubi&show_icons=true&theme=radical&count_private=true&hide=stars" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wissemyaakoubi&theme=radical&hide_border=true" width="400" />
+</div>
 
 ---
 
-## 📂 Featured Projects  
-Here are some of the projects I’ve been working on:  
+## 💻 Featured Projects  
 
-- **[Real-Time GNSS Tracker](https://github.com/wissemyaakoubi/gnss-tracker):** GPS and 4G integration for tracking applications  
-- **[CAN Bus Analyzer](https://github.com/wissemyaakoubi/can-analyzer):** A tool for monitoring and debugging CAN traffic  
+🚗 **[Real-Time GNSS Tracker](https://github.com/wissemyaakoubi/gnss-tracker):** A complete GPS and 4G integration project.  
+🛠️ **[CAN Bus Analyzer](https://github.com/wissemyaakoubi/can-analyzer):** Debugging and monitoring CAN traffic.  
+🖥️ **[Qt-Based Dashboard](https://github.com/wissemyaakoubi/qt-dashboard):** Interactive GUI for embedded devices.  
 
 ---
 
-### 🔥 Thank you for visiting!
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</div>
+
+---
+
+## 📫 How to Reach Me  
+
+📧 **Email:** [wissem.yaakoubi@example.com](mailto:wissem.yaakoubi@example.com)  
+💼 **LinkedIn:** [Wissem Yaakoubi](https://www.linkedin.com/in/wissemyaakoubi)  
+🌐 **Website/Portfolio:** [wissemyaakoubi.dev](https://wissemyaakoubi.dev)  
+
+---
+
+<div align="center">
+  <h3>💡 Fun Fact: I love blending <strong>hardware</strong> with <strong>artistic innovation</strong>!</h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</div>
+
+---
