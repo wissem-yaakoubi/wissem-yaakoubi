@@ -15,15 +15,15 @@
 
 🔧 **Skills:**  
 - **Embedded Systems Development:** Yocto, Buildroot, Linux kernel  
-- **Programming:** C, C++, Python, Rust  
+- **Programming:** C, C++, Python  
 - **Hardware Integration:** GPIO, I2C, SPI, UART, CAN  
-- **Wireless Technologies:** Bluetooth, GSM (SIM7600), Wi-Fi  
+- **Wireless Technologies:** Bluetooth, GSM, Wi-Fi  
 - **User Interfaces:** Qt/QML  
 
 🌟 **Highlights:**  
-- Developed real-time vehicle tracking systems with GNSS and GSM.  
+- Developed real-time vehicle tracking systems with GNSS.  
 - Designed CAN Bus communication for electric mobility applications.  
-- Customized Linux kernel for fast boot time on embedded devices.  
+- Customized Linux based OS for fast boot time on embedded devices.  
 
 ---
 
@@ -35,15 +35,6 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wissemyaakoubi&show_icons=true&theme=radical&count_private=true&hide=stars" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wissemyaakoubi&theme=radical&hide_border=true" width="400" />
 </div>
 
 ---
@@ -64,9 +55,9 @@
 
 ## 📫 How to Reach Me  
 
-📧 **Email:** [wissem.yaakoubi@example.com](mailto:wissem.yaakoubi@example.com)  
-💼 **LinkedIn:** [Wissem Yaakoubi](https://www.linkedin.com/in/wissemyaakoubi)  
-🌐 **Website/Portfolio:** [wissemyaakoubi.dev](https://wissemyaakoubi.dev)  
+📧 **Email:** [wissemyakoubi99@gmail.com](mailto:wissemyakoubi99@gmail.com)  
+💼 **LinkedIn:** [Wissem Yaakoubi](https://www.linkedin.com/in/wissem-yaakoubi-814243204/)  
+🌐 **Website/Portfolio:** [wissemyaakoubi.io](https://wissem-yaakoubi.github.io)  
 
 ---
 
