@@ -14,9 +14,9 @@
 ## 🚀 About Me  
 
 🔧 **Skills:**  
-- **Embedded Systems Development:** Yocto, Buildroot, Linux kernel  
+- **Embedded Systems Development:** Yocto, Buildroot, Linux kernel , U-boot 
 - **Programming:** C, C++, Python  
-- **Hardware Integration:** GPIO, I2C, SPI, UART, CAN  
+- **Communications Protocols:** I2C, SPI, UART, CAN  
 - **Wireless Technologies:** Bluetooth, GSM, Wi-Fi  
 - **User Interfaces:** Qt/QML  
 
