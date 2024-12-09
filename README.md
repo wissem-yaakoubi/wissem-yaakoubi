@@ -6,7 +6,7 @@
   <p>
     <i>Embedded Systems Engineer • Innovator • Tech Enthusiast</i>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+my+dynamic+profile!;I+design+hardware-software+solutions;Let%27s+innovate+together!;Open+to+new+opportunities!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+my+profile!;I+design+hardware-software+solutions;Let%27s+innovate+together!;Open+to+new+opportunities!">
 </div>
 
 ---
